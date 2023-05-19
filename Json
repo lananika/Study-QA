@@ -1,0 +1,27 @@
+  "family": [
+ { 
+"firstname": "Sergey",
+"lastname" : "Ternenko",
+"Age" : 30,
+"profession": "chef",
+"marital status": "married"
+ },
+ {
+   "firstname": "Svitlana",
+   "lastname": "Ternenko",
+   "Age": 32,
+   "profession": "secretary",
+   "marital status": "married"
+ }
+ ],
+   "children": [
+    { 
+"firstname": "Anton",
+"lastname" : "Ternenko",
+"Age": 3  },
+   {
+     "firstname": "Kyra",
+"lastname": "Ternenko",
+"Age": 6,
+}
+]
